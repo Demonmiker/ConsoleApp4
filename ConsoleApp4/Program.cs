@@ -22,7 +22,10 @@ namespace ConsoleApp4
 
         static void MethodEvgena()
         {
+            //
+            //
 
+            //
         }
     }
 }
