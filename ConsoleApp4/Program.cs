@@ -22,7 +22,8 @@ namespace ConsoleApp4
 
         static void MethodEvgena()
         {
-            WriteLine("HelloMiha");
+            //WriteLine("HelloMiha");
+            WriteLine("abdya")
         }
     }
 }
