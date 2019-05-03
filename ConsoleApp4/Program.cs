@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using static System.Console;
 
 namespace ConsoleApp4
 {
@@ -10,6 +11,7 @@ namespace ConsoleApp4
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
