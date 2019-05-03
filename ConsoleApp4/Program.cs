@@ -14,6 +14,11 @@ namespace ConsoleApp4
             Write("SDS");
         }
 
+        static void MethodEvgena()
+        {
+
+        }
+
         static void MethodMihana()
         {
 
